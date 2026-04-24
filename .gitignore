@@ -1,0 +1,19 @@
+# Virtual environment
+m5_env/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# Data (optional - usually ignored)
+data/
+
+# Outputs
+outputs/
+
+# Environment variables
+.env
+
+# Mac system files
+.DS_Store
